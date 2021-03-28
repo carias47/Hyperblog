@@ -1,5 +1,5 @@
 body {
-    color: #111;
+    color: rgb(15, 42, 99);
     text-align: center;
     font-family:  'Times New Roman', Times, serif;
 
@@ -27,6 +27,6 @@ body {
 }
 
 div{
-    color:cornflowerblue;
+    color:rgb(47, 107, 72);
 
 }
